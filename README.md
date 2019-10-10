@@ -8,4 +8,4 @@ The main functions of the map are:
 
 For me, the most fascinating part of this project is to understand the data, e.g., what properties does the data have. I got to know such information by reading the introduction of the dataset on website and using the debug function of the complier. Based on what I learnt, I implemented several methods to get properties of the data such as getName(), getCity(), getCountry(), getAltitude() and getCode(). The most challenging part, of course, is to implement the actions that gonna be taken when an airport marker is clicked, i.e., checkAirportsForClick(). 
 
-![My Profile Picture](/images/profile.png)
+![My Profile Picture](images/profile.png)
